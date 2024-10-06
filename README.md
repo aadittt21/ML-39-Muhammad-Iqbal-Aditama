@@ -2,9 +2,9 @@
 
 ## Setup Environment - Shell/Terminal
 ```
-pipenv install Streamlit
-pipenv install Matplotlib
-pip install -r requirements.txt
+pip install Streamlit
+pip install Matplotlib
+
 ```
 
 ## Run steamlit app
