@@ -1,12 +1,13 @@
 # Dicoding Collection Dashboard ✨
 
 ## Setup Environment - Shell/Terminal
-pip install streamlit
-pip install matplotlib
+```
+pipenv install Streamlit
+pipenv install Matplotlib
 pip install -r requirements.txt
 ```
 
 ## Run steamlit app
 ```
-streamlit run CobaStreamlit.py
+streamlit run dashboard.py
 ```
