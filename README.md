@@ -9,5 +9,5 @@ pip install Matplotlib
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run CobaStreamlit.py
 ```
