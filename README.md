@@ -2,12 +2,11 @@
 
 ## Setup Environment - Shell/Terminal
 ```
-pip install Streamlit
-pip install Matplotlib
+.\venv\Scripts\activate
 
 ```
 
 ## Run steamlit app
 ```
-streamlit run CobaStreamlit.py
+streamlit run Dashboard1.py
 ```
